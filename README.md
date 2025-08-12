@@ -1,5 +1,5 @@
 # Simple Grade Calculator
-**Live Demo:** [Click here to view](https://your-username.github.io/gradeCalculator_project/)
+**Live Demo:** [Click here to view](https://fellowone.github.io/gradeCalculator_project/)
 
 ## Project Overview
 This is a simple Grade Calculator built using **HTML**, **CSS**, and **JavaScript**.  
